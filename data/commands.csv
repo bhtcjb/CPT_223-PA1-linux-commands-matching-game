@@ -1,0 +1,30 @@
+ls,"view contents of current directory",1
+cd,"change working directory",1
+pwd,"display absolute path of working directory",1
+mkdir,"create new directory",1
+rm,"permanently delete file or directory",1
+cp,"duplicate file",1
+mv,"move file or directory",1
+touch,"create new file or update timestamp of existing file",2
+cat,"read file, combine files, append files, or create new file with text",2
+grep,"search for files based on text patterns within file",2
+find,"search for specific files based on file attributes",2
+chmod,"manage file permissions",2
+chown,"change owner of file or directory",2
+sudo,"permit user to execute commands as root user",2
+tail,"display last lines of a file",2
+head,"display first lines of a file",2
+history,"display history of entered commands",2
+man,"display documentation for a command",3
+top,"display dynamic list of system processes",3
+ps,"display snapshot of specific processes",3
+kill,"end specific processes",3
+df,"display overall available disk space and usage",3
+du,"display disk usage of specific files or directories",3
+free,"display snapshot of memory usage and availability",3
+uname,"display operating system and hardware information",3
+ssh,"create a secure and encrypted connection to a remote host",4
+scp,"transfer files securely between remote hosts",4
+wget,"download files from the internet",4
+curl,"transfer data between servers",4
+tar,"bundle multiple files into a single archive",4
